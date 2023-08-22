@@ -8,4 +8,4 @@ $ npm run dev
 ````
 About the Project: 
 
-A Efficient Notes App📝 integrated with real time database storage via Firebase Cloud Firestore ready to track all your thoughts with Systematic Creation, Updation & Deletion System.
+A Efficient Notes App📝 made with React.js integrated with real time database storage via Firebase Cloud Firestore ready to track all your thoughts with Systematic Creation, Updation & Deletion System.
