@@ -1,15 +1,16 @@
+// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getFirestore, collection } from "firebase/firestore"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCyODxerovFUUEOVvVMyO_S3GCSNrWmHhI",
-  authDomain: "note-it-221fb.firebaseapp.com",
-  projectId: "note-it-221fb",
-  storageBucket: "note-it-221fb.appspot.com",
-  messagingSenderId: "608613287700",
-  appId: "1:608613287700:web:69328b414573054e856401",
-  measurementId: "G-JNDK7RE20G"
+  apiKey: "AIzaSyBjgZCejmhyfL_RD0meHqJTELIt8sfFUX0",
+  authDomain: "my-note-it-79dda.firebaseapp.com",
+  projectId: "my-note-it",
+  storageBucket: "my-note-it.appspot.com",
+  messagingSenderId: "51461462774",
+  appId: "1:51461462774:web:6b756d85c9d929f55f2ad7",
+  measurementId: "G-E103B4MXXH"
 };
 
 // Initialize Firebase
