@@ -27,6 +27,7 @@ Get a glimpse of the **Note It!** interface and its core features:
 ![Note List Screenshot](./assets/note1.png)  
 ---
 ![Write and Preview Screenshot](./assets/note2.png)  
+*Visit the [Live Site](https://hailex.netlify.app/) for a full experience!* 🌐
 
 --- 
 
