@@ -25,6 +25,7 @@ Get a glimpse of the **Note It!** interface and its core features:
 - **Right Panel**: Includes **Write Mode** powered by **ReactMDE** for editing notes and a **Preview Mode** for real-time markdown rendering.  
 
 ![Note List Screenshot](./assets/note1.png)  
+---
 ![Write and Preview Screenshot](./assets/note2.png)  
 
 --- 
